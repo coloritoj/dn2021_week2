@@ -86,6 +86,8 @@ namespace ArrayDemo2
             }
             while (GoAgain());
 
+
+            // Use the GoAgain() function for the homework today. No need to reinvent the wheel. We have permission to copy that one. He doesn't want us worrying about the go again part.
         }
     }
 }
