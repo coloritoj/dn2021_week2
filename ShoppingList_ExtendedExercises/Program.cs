@@ -240,7 +240,7 @@ namespace ShoppingList_ExtendedExercises
             Console.WriteLine("\nHere is what you've added to your shopping cart: ");
             foreach (string item in shoppingCart)
             {
-                Console.WriteLine($"{item}: ${storeMenu[item]}");
+                Console.WriteLine($"{item}: ${storeMenu[item]}"); // Check array demo 2 if you wanna see how to space things correctly
                 totalPrice += storeMenu[item];
             }
 
