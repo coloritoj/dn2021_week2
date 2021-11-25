@@ -37,7 +37,7 @@ namespace ExceptionDemo
                 // Console.WriteLine("An error occurred!!!");
                 // Console.WriteLine(ex.Message);
                 Console.WriteLine($"Please enter a number between 0 and {names.Count - 1}");
-            } */
+            } 
 
             int num = 0;
             bool keepGoing = true;

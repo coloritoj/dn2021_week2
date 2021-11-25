@@ -34,13 +34,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingList_ExtendedExerci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2_2_Shopping", "Lab2_2_Shopping\Lab2_2_Shopping.csproj", "{AA57EFCD-28F1-45A4-AB48-E8928379729E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{E1C2E6B9-1525-4E92-BA9A-F8157C9A3C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{E1C2E6B9-1525-4E92-BA9A-F8157C9A3C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMemory", "ListMemory\ListMemory.csproj", "{F36EE03E-5491-4D88-ACA1-9465A2A764BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListMemory", "ListMemory\ListMemory.csproj", "{F36EE03E-5491-4D88-ACA1-9465A2A764BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMemory2", "ListMemory2\ListMemory2.csproj", "{7A4A68CC-0900-412D-81F5-4C1B6CB7E644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListMemory2", "ListMemory2\ListMemory2.csproj", "{7A4A68CC-0900-412D-81F5-4C1B6CB7E644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListPractice", "ArrayListPractice\ArrayListPractice.csproj", "{06731D20-832B-4EF2-881F-A832AF0BB339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListPractice", "ArrayListPractice\ArrayListPractice.csproj", "{06731D20-832B-4EF2-881F-A832AF0BB339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars_Experiments", "StarWars_Experiments\StarWars_Experiments.csproj", "{75C04CA1-441E-4F16-9B4B-BC7298A98EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -116,6 +118,10 @@ Global
 		{06731D20-832B-4EF2-881F-A832AF0BB339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06731D20-832B-4EF2-881F-A832AF0BB339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06731D20-832B-4EF2-881F-A832AF0BB339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C04CA1-441E-4F16-9B4B-BC7298A98EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C04CA1-441E-4F16-9B4B-BC7298A98EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C04CA1-441E-4F16-9B4B-BC7298A98EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C04CA1-441E-4F16-9B4B-BC7298A98EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
